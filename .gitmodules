@@ -1,0 +1,3 @@
+[submodule "project_1"]
+	path = project_1
+	url = git@github.com:ApyotDev/project_1.git
